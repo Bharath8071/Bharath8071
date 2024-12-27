@@ -13,12 +13,13 @@
 
 ### About Me
 As a passionate problem-solver with a flair for  Embedded Systems, Algorithms, and Creative Engineering Solutions. As a student at SNSCT in the Department of Electronics and Communication Engineering (ECE), I thrive on solving complex challenges and building innovative systems that bridge the gap between hardware and software.
+
 My journey includes hands-on experience with IoT, robotics, and embedded software development, where I’ve tackled projects involving ESP32, STM microcontrollers, and sensor integration. I am a proud active member of the Robotics Club and an RRC Member at SNS Institutions, constantly contributing to a culture of innovation and teamwork.
 
- • Proficient in programming languages such as C, C++, Arduino code, and MicroPython.
- • Successfully worked on projects like IoT integrations, and real-time embedded systems.
- • Adept at designing and optimizing algorithms to improve system efficiency.
- • Demonstrated leadership and collaboration in team-driven innovation projects.
+ -  Proficient in programming languages such as C, C++, Arduino code, and MicroPython.
+ -  Successfully worked on projects like IoT integrations, and real-time embedded systems.
+ -  Adept at designing and optimizing algorithms to improve system efficiency.
+ -  Demonstrated leadership and collaboration in team-driven innovation projects.
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=mhwmyz1eu7T5&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
