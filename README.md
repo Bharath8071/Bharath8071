@@ -2,10 +2,10 @@
 
 <img align="right" width="370" height="290" src="https://dhboss.com/images/95116-coder.gif"> 
 
-- 🔭 Here's my [portfolio](https://hareesh.web.apps/)                                                 
+- 🔭 Here's my [portfolio](https://hareesh.web.apps/)                                           
 - 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for Placements 
+- 🤝 I’m looking to collaborate on ML/AI
+- 👀 I’m looking for Placements 
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
 - 😄 Pronouns: Techie
