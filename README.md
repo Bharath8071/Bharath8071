@@ -14,7 +14,7 @@
 ### About Me
 As a passionate problem-solver with a flair for  Embedded Systems, Algorithms, and Creative Engineering Solutions. As a student at SNSCT in the Department of Electronics and Communication Engineering (ECE), I thrive on solving complex challenges and building innovative systems that bridge the gap between hardware and software.
 
-My journey includes hands-on experience with IoT, robotics, and embedded software development, where I’ve tackled projects involving ESP32, STM microcontrollers, and sensor integration. I am a proud active member of the Robotics Club and an RRC Member at SNS Institutions, constantly contributing to a culture of innovation and teamwork.
+My journey includes hands-on experience with IoT, robotics, and embedded software development, where I’ve tackled projects involving ESP32, STM microcontrollers, and sensor integration.
 
  -  Proficient in programming languages such as C, C++, Arduino code, and MicroPython.
  -  Successfully worked on projects like IoT integrations, and real-time embedded systems.
