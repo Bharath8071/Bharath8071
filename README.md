@@ -79,6 +79,14 @@
 
 ---
 
+## 🔢 LeetCode Progress  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mbhari8070?ext=heatmap)  
+
+📌 Check out my profile here → [LeetCode/Bharath8071](https://leetcode.com/u/mbhari8070/)  
+
+---
+
 ## 🏆 Achievements  
 
 - 🎓 Completed **Generative AI Courses (LinkedIn Learning)**  
