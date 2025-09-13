@@ -1,5 +1,5 @@
-# 👋 Hey, I'm Bharath  
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&width=500&lines=Hi+👋,+I'm+Bharath;Backend+Developer+%7C+Embedded+Systems;Always+Learning+%7C+Building+%7C+Sharing)](https://git.io/typing-svg)
+<!-- # 👋 Hey, I'm Bharath  -->
 💡 **Driven and Dynamic Innovator | Backend Developer | Embedded Systems Explorer**  
 🔗 Active member of **Robotics Club** | RRC Member at **SNS Institutions**  
 ✨ Passionate about **building impactful software + hardware solutions** that merge creativity, logic, and innovation.  
@@ -60,6 +60,17 @@
 | **QR-to-VR Education Platform** | Web platform: scan QR → launch immersive 360° images/videos for learning | Firebase Firestore, A-Frame, WebVR |
 | **OLED SD Navigation System** | ESP32 with OLED + SD card folder navigation + side menu UI with buttons | ESP32, Arduino, OLED |
 | **EV Internship Project** | Worked on motor, battery, motor controller programming + sensor integration | Embedded C, Sensors |
+
+---
+
+## 📜 Certifications  
+
+- 🎓 **AWS Academy Gen AI Foundation** – AWS Academy  
+- 🎓 **Introduction to Soft Skills** – TCS iON  
+- 🎓 **Edge AI** – Edge Impulse  
+- 🎓 **Generative AI** – LinkedIn Learning  
+- 🎓 **MySQL for Data Management** – LinkedIn Learning  
+- 🎓 **Python Programming** – PrepInsta  
 
 ---
 
