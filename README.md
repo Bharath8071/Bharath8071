@@ -12,7 +12,6 @@
 - ⚡ Transitioning from **Embedded Systems → Software Backend Developer**  
 - 🚀 Always curious to **design algorithms, optimize code, and build scalable systems**  
 - 🌍 Working on projects combining **IoT, VR, Cloud, and AI**  
-- 🎯 Currently at **B1 English level** → learning one word daily to grow communication skills  
 
 ---
 
@@ -92,9 +91,8 @@
 
 ## 📫 Connect with Me  
 
-- 🌐 [LinkedIn](https://linkedin.com/in/your-link)  
-- 📧 Email: your.email@example.com  
-- 🐦 Twitter: [@yourhandle](#)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/bharath-mani/)
+- 📧 Email: bharathmani8071@gmail.com
 - 🧑‍💻 GitHub: [Bharath8071](https://github.com/Bharath8071)  
 
 ---
