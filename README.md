@@ -23,8 +23,8 @@
 ![Embedded C](https://img.shields.io/badge/-EmbeddedC-00427E?style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+<!--![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)-->
+<!--![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)-->
 
 **IoT / Embedded Platforms**  
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
@@ -35,7 +35,7 @@
 **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+<!--![Firebase Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)-->
 
 **Tools & Cloud**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -46,7 +46,7 @@
 
 **Other Interests**  
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-![A-Frame](https://img.shields.io/badge/-AFrame-EF2D5E?style=flat&logo=aframe&logoColor=white)
+<!--![A-Frame](https://img.shields.io/badge/-AFrame-EF2D5E?style=flat&logo=aframe&logoColor=white)-->
 ![n8n](https://img.shields.io/badge/-n8n-20A4F3?style=flat&logo=n8n&logoColor=white)
 
 ---
